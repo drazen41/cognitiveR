@@ -107,10 +107,11 @@ movie_length_ordered
 summary(movie_length_ordered)
 
 
+#quiz
+c(1,2) == 1
 
-
-
-
+costs <- c(3, 15, 3, 10)
+costs[costs > 5]
 
 
 
